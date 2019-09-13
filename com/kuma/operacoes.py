@@ -1,4 +1,4 @@
-classe Operacoes():
+class Operacoes():
 	def soma(self,valores):
 		val = 0
 		for v in valores:
